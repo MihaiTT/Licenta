@@ -1,0 +1,15 @@
+C:\Users\ottim\source\repos\Licenta\Licenta\bin\Debug\netcoreapp3.1\Licenta.exe
+C:\Users\ottim\source\repos\Licenta\Licenta\bin\Debug\netcoreapp3.1\Licenta.deps.json
+C:\Users\ottim\source\repos\Licenta\Licenta\bin\Debug\netcoreapp3.1\Licenta.runtimeconfig.json
+C:\Users\ottim\source\repos\Licenta\Licenta\bin\Debug\netcoreapp3.1\Licenta.runtimeconfig.dev.json
+C:\Users\ottim\source\repos\Licenta\Licenta\bin\Debug\netcoreapp3.1\Licenta.dll
+C:\Users\ottim\source\repos\Licenta\Licenta\bin\Debug\netcoreapp3.1\Licenta.pdb
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.csproj.GenerateResource.cache
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.AssemblyInfoInputs.cache
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.AssemblyInfo.cs
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.dll
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.pdb
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.genruntimeconfig.cache
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.csproj.AssemblyReference.cache
+C:\Users\ottim\source\repos\Licenta\Licenta\obj\Debug\netcoreapp3.1\Licenta.frmPrimary.resources
